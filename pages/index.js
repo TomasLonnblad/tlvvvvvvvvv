@@ -17,7 +17,7 @@ export default function Home() {
         <p className="description">This is an example with HLS.js</p>
 
         <div className="grid">
-          <VideoPlayer src="https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" />
+          <VideoPlayer src="https://tomaslonnblad.github.io/1x/index.m3u8" />
         </div>
       </main>
 
